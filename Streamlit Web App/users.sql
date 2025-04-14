@@ -1,0 +1,1 @@
+SELECT * FROM crud_new1.users;
